@@ -1,5 +1,7 @@
 Derin Bilgi Interview Project
 
+Proje Konusu : 
+
 Örnek projemizin konusu, pdf’lerden oluşan katalogların mobil cihazlardan görüntülenmesi. Metodları aşağıda bulabilirsiniz, sorularınız olacaktır, maddelere göre yazışırız.
  
 1.       Yeni PDF yayını olduğunda bildirim gelmeli

@@ -5,10 +5,10 @@ Derin Bilgi Interview Project
 1.       Yeni PDF yayını olduğunda bildirim gelmeli
 2.       Web ortamında girilen mesaj gönderilebilmeli
 3.       Uygulamanın açılışında pdf gösterilmeli
-a.       Aktif tek PDF varsa, doğrudan pdf’i görüntülemeliyiz.
-b.      Birden fazla olursa ilk sayfalarının gösterildiği (en fazla 4’lü düzende diyelim) bir sayfa olmalı, tıklanan PDF’i görüntülemeli.
+           Aktif tek PDF varsa, doğrudan pdf’i görüntülemeliyiz.
+           Birden fazla olursa ilk sayfalarının gösterildiği (en fazla 4’lü düzende diyelim) bir sayfa olmalı, tıklanan PDF’i görüntülemeli.
 4.       Şirketin diğer şubelerinin konumlarının harita üstünde gösterildiği bir sayfa olmalı
-a.       En yakın şubenin farklı gösterilmesi ya da öne çıkartılması güzel olur.
+           En yakın şubenin farklı gösterilmesi ya da öne çıkartılması güzel olur.
 5.       Hakkımızda gibi bir bölümde, bir görsel ve kısa bir metin
 6.       Her katalog görüntülemede bir log verisi gönderilmeli.
  

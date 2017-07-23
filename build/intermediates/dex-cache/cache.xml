@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_c8e9e3da49c50529a5492fee479b36195e2f440c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_ea03a1db3c0e47d5c7f482b94285067a1926bd02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/glide-3.7.0_95ffe4df40858cebc5b30a16a6c9b1a07410fdcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_a50ce85418101c867e1bdf3a04fe6a34fba75b50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.3/b842f960942503cf1abbcc8c173a7f2c19d43726/jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/jsoup-1.10.3_0cbe58fd15b4de8441765c83ad388f459e65a154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_8ef44bf73d384ce00aac1a5bec9070ad2cf29638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_96bc387cfb97f48d88e633bfcc30e31ff5c684f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_e6da6bc90b5c792cb35da95099a8b8a396b312a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e517cb4029544b77c62f804212f3ba4a7b4c12f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_a37ea73e346d943521b781954592cf74e6b2b249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_c5cc411e9692a7b6d4b23d2ebff1ec6552f076de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/gson-2.7_af9719ef2f8d415bb7e2fa780e8d4783e6e426b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/7a15a7db50f86c4b64aa3367424a60e3a325b8f1/okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/okhttp-2.7.5_5fa51464a6e4a27ebb218ce578c53287e4573514.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5bff3162b53438ecab343b272c163f74ff492dcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_7094a892c006342f9aaedeabdaadaff88ca13190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_f7645b2ea4b3055626f5e537638bd5cfe52e65c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.0_5effa3f354b08cb7eb6b58be7b2026e701c1b0ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4e1f7d2004b262579c5575bdc717ae35900379e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_7d2ff9d150398b8c9e672497e071e79bce6b3ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_a250efb7b199e1440c5db41d0d6b8cad6940a02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_4ab4161344ede16d7abb653b37fc60b388f54edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.github.barteksc/pdfium-android/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97a90b867543905c0717d04f6a60532c9405aa33">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.github.barteksc-pdfium-android-1.5.0_6fc6ba522f6db2d7cb6f66ddf64ed927419eb0da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_60c341cc714465595116cef40cfdb408a1f00cd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4a837517ac1c66d1134706a7042ce245415de262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_4a21f9dd2ac17a3f34ad68de987532c1b34c071b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/okio-1.9.0_91c40a503f4211dc6657d1a1268447ae6c3d7721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_99ed7476812aefaa0bfca8255ded7e6fa565de71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.github.barteksc/android-pdf-viewer/2.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2caa90c11fc6559f3718fcd10011f1ac631a76cf">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.github.barteksc-android-pdf-viewer-2.6.1_96d66f2a8a71627e7d532cb1f38c703132b13930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_918011ab498bf574b5b70862e3098af6cbad2496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0e8f296c6c0a68a3afb481907ab4ef4962275204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_a3e8adab97f47aa7b2afb2a228538b83dd7a5fd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_12529e255e3d92e5ee070dc53df48503f5b672a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_e5652a2b8a384f896b11f44551d372cd0197808d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_16bbdb7db51d9359f0f8a10babb56bd1f1713309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/host/AndroidStudioProjects/DerinBilgi/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_dd5566b4e2b4f84b97094c25b0dc4a7cab4cf58b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Derin Bilgi Example Project</string>
+    <string name="tab1">Catalogs</string>
+    <string name="tab2">Messages</string>
+    <string name="tab3">About</string>
+    <string name="tab4">Contact</string>
+    <string name="action_status">Status</string>
+    <string name="action_calls">Catalogs</string>
+    <string name="action_contacts">About</string>
+    <string name="givepermission">Give All Permissions</string>
+    <string name="warning">Warning !</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_splash_screen">Derin Bilgi Example Project</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="err_internet_connection">Check Your Internet Connection !</string>
+    <string name="err_internet_connection_title">Internet Connection Problem</string>
+    <string name="checkPdfMessage">Cheking new pdf file… Please Wait !</string>
+    <string name="downloadingMessage">Downloading pdf file… Please Wait !</string>
+    <string name="authorization">Authorization</string>
+    <string name="key">Basic YXBpQGdyb3NlcmkuY29tLnRyOmdyb3NlcmlSZXNwb25zZQ==</string>
+    <string name="new_pdf_notification">We have new pdf file.Do you want to see ?</string>
+    <string name="company_name">Gri Market</string>
+    <string name="activate_catalogs_web_service">http://derinkatalog.azurewebsites.net/api/etkinkataloglar?musteriId=3</string>
+    <string name="message_web_service">http://derinkatalog.azurewebsites.net/api/mesaj?musteriId=3</string>
+
+
+    <string name="gps_network_not_enabled">Location Services Not Enable ...</string>
+    <string name="open_location_settings">Open</string>
+    <string name="Cancel">Cancel</string>
+    <string name="pdf_read_warning">If you want to read pdf , you should open location settings ...</string>
+
+</resources>

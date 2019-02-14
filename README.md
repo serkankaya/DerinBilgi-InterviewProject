@@ -16,3 +16,6 @@ Proje Konusu :
  
 Yapabildiğinizi yetiştirebildiğiniz kadar görmek isteriz. Deneme boyutunu aşar diye düşündüğünüz alanlar varsa, bunları da nasıl kurgulayıp çözebileceğinizi ifade edebilirsiniz. Ürünü yayınlama gibi tüm yaşam döngüsü hakkında nasıl ilerleyeceğinizi de ayrıca almak isteriz.
 
+
+MIT License
+
